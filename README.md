@@ -1,5 +1,5 @@
 ### Road to Linux on RISC-V in Verilog
-an accessible way of learning system bring-up
+risc-v dual-core in $30 fpga board
 * the book can be read for free
 
 #### RLSoC dual core

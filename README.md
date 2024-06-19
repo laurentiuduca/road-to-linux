@@ -10,8 +10,8 @@ risc-v dual-core in $30 fpga board
    and add gowin/IDE/bin folder to your system path)
 * try true dual-core rlsoc-tn-20240525.tgz<br>
 * please see the <a href="https://github.com/laurentiuduca/rlsoc2">rlsoc2</a> repository for verilog <br>
-(its tag 1.1 contents were copied to the src folder <br>
-in order to have the latest version)
+(git tag 1.1 contents were copied to the src folder <br>
+in order to have the rlsoc-tn-20240526-1700.tgz version)
 * 25 pages dedicated chapter in the book, see chapter 8!
 * https://youtu.be/Ce9SjgnXosQ 
 

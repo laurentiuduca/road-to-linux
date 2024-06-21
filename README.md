@@ -2,7 +2,7 @@
 risc-v dual-core in $30 fpga board
 * the book can be read for free
 * PLIC is implemented only in rlsoc1
-(rlsoc2 has only IPI and timer interrupts)
+(rlsoc2 has only IPI and timer interrupts, so no external interrupts)
 
 #### RLSoC dual core
 ##### Status

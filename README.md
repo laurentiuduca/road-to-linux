@@ -1,6 +1,8 @@
 ### Road to Linux on RISC-V in Verilog
 risc-v dual-core in $30 fpga board
 * the book can be read for free
+* PLIC is implemented only in rlsoc1
+(rlsoc2 has only IPI and timer interrupts)
 
 #### RLSoC dual core
 ##### Status
@@ -8,7 +10,7 @@ risc-v dual-core in $30 fpga board
 * ported to the cheap Tang nano 20k board <br>
   (you must install GoWin EDA education build <br>
    and add gowin/IDE/bin folder to your system path)
-* try true dual-core rlsoc-tn-20240525.tgz<br>
+* try true dual-core rlsoc-tn-20240526-1700.tgz<br>
 * please see the <a href="https://github.com/laurentiuduca/rlsoc2">rlsoc2</a> repository for verilog <br>
 (git tag 1.1 contents were copied to the src folder <br>
 in order to have the rlsoc-tn-20240526-1700.tgz version)

@@ -1,7 +1,6 @@
 ### Road to Linux on RISC-V in Verilog
 risc-v dual-core in $30 fpga board
 * the book can be read for free
-* PLIC is implemented in rlsoc1 and rlsoc2
 
 #### RLSoC dual core
 ##### Status
@@ -13,6 +12,7 @@ risc-v dual-core in $30 fpga board
 * please see the <a href="https://github.com/laurentiuduca/rlsoc2">rlsoc2</a> repository for verilog <br>
 (git tag 1.1 contents were copied to the src folder <br>
 in order to have the rlsoc-tn-20240526-1700.tgz version)
+* git tag 1.2 is with PLIC
 * 25 pages dedicated chapter in the book, see chapter 8!
 * https://youtu.be/Ce9SjgnXosQ 
 

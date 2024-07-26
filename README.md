@@ -12,7 +12,7 @@ risc-v dual-core in $30 fpga board
 * please see the <a href="https://github.com/laurentiuduca/rlsoc2">rlsoc2</a> repository for verilog <br>
 (git tag 1.1 contents were copied to the src folder <br>
 in order to have the rlsoc-tn-20240526-1700.tgz version)
-* git tag 1.2 is with PLIC
+* git tag 1.3 is with PLIC and a mmu bug corrected
 * 25 pages dedicated chapter in the book, see chapter 8!
 * https://youtu.be/Ce9SjgnXosQ 
 

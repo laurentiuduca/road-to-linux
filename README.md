@@ -16,6 +16,17 @@ in order to have the rlsoc-tn-20240526-1700.tgz version)
 * 25 pages dedicated chapter in the book, see chapter 8!
 * https://youtu.be/Ce9SjgnXosQ 
 
+#### news: if you want to use git tag 1.3 and above,
+* in devicetree.dts, 
+memory@80000000 {
+		reg = <0x0 0x80000000 0x0 0x770000>;
+* in define.vh `define D_START_PC      32'h80770000
+* set MEM_START to 0x80770000 in the riscv-pk/configure
+* in riscv-pk/configure.ac:
+AC_SUBST([MEM_START], [0x80770000], [Physical memory start address])
+* recompile sw and hw system
+
+
 ##### Implementation on tang nano 20k
 * unzip bin-tn.tgz
 * write linux on sd card - replace /dev/sdb with your sd drive

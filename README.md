@@ -78,22 +78,3 @@ make veri
 https://www.youtube.com/watch?v=1YQXtjbE5Q8
 
 
-##### Book description for RLSoC
-* ebook, 217 pages pdf version
-* RLSoC single and dual core
-* The book presents the architecture of the RLSoC single and dual core project and the TinyEMU simulator.
-It covers building, interactive simulation and implementation aspects. 
-In the book are described the RISC-V32 processor, MMU, memory controller, console and interrupts.
-We dig into the Linux kernel and see how it manages boot-up and hardware interaction.
-* the book is written based on my notes taken when I tried to understand rvsoc and tinyemu 
-and is based on commented code excerpts
-* it is a book to be read thorough
-* this version is forked from RVSoC v53, is written in Verilog 
-and implements RISC-V32 with MMU, console and uses Linux initramfs disk.
-* it is ported on Tang Nano 20k, Nexys A7, Arty A7 FPGA boards
-
-##### Reader's profile
-* level: intermediate to advanced
-* should be skilled in assembler, C, verilog and computer architecture
-* should have the ability to read pseudocode
-

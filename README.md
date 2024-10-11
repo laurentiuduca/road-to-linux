@@ -77,6 +77,6 @@ make veri
 * demo video on youtube <br>
 https://www.youtube.com/watch?v=1YQXtjbE5Q8
 
-#### Try apache nuttx on rlsoc
-from the <a href="https://github.com/laurentiuduca/nuttx-rlsoc2">nuttx-rlsoc2</a> repository<br>
+#### Try apache nuttx on rlsoc2
+from the <a href="https://github.com/laurentiuduca/nuttx-rlsoc">nuttx-rlsoc</a> repository<br>
 

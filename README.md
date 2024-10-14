@@ -16,10 +16,11 @@ Smart Publishing, 2024, ISBN 978-606-068-087-1
 (git tag 1.1 contents were copied to the src folder <br>
 in order to have the rlsoc-tn-20240526-1700.tgz version)
 * git tag 1.3 is with PLIC and a mmu translation optimization
+* git tag 1.5 allows compressed instructions
 * 25 pages dedicated chapter in the book, see chapter 8!
 * https://youtu.be/Ce9SjgnXosQ 
 
-#### news: if you want to use git tag 1.3 and above,
+#### news: if you want to use rlsoc2 git tag 1.3 and above,
 * for linux in devicetree.dts, 
 memory@80000000 {
 		reg = <0x0 0x80000000 0x0 0x770000>;

@@ -81,3 +81,7 @@ https://www.youtube.com/watch?v=1YQXtjbE5Q8
 #### Try apache nuttx on rlsoc2
 from the <a href="https://github.com/laurentiuduca/nuttx-rlsoc">nuttx-rlsoc</a> repository<br>
 
+#### Support
+If you feel so, please contact me
+laurentiu dot duca at gmail dot com
+

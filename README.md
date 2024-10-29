@@ -20,7 +20,7 @@ in order to have the rlsoc-tn-20240526-1700.tgz version)
 * 25 pages dedicated chapter in the book, see chapter 8!
 * https://youtu.be/Ce9SjgnXosQ 
 
-#### news: if you want to use rlsoc2 git tag 1.3 and above,
+##### news: if you want to use rlsoc2 git tag 1.3 and above,
 * for linux in devicetree.dts, 
 memory@80000000 {
 		reg = <0x0 0x80000000 0x0 0x770000>;
@@ -82,6 +82,6 @@ https://www.youtube.com/watch?v=1YQXtjbE5Q8
 from the <a href="https://github.com/laurentiuduca/nuttx-rlsoc">nuttx-rlsoc</a> repository<br>
 
 #### Support
-If you feel so, please contact me
+If you feel so, please contact me - 
 laurentiu dot duca at gmail dot com
 

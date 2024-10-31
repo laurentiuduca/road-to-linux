@@ -1,5 +1,4 @@
-### Road to Linux on RISC-V in Verilog
-risc-v dual-core in $30 fpga board
+### risc-v dual-core, verilog, $30 fpga board
 * the book can be read for free
 * if you use our work, please cite us<br>
 Road to Linux on RISC-V in FPGA / Laurenţiu Cristian Duca and Anton Duca. - 2nd ed. -

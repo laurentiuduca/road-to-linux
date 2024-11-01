@@ -44,19 +44,7 @@ openFPGALoader --board tangnano20k project.fs
 (please be aware that tangnano has 2 serial ports on the same usb wire)
 
 ##### Simulation in verilator
-* compile bbl
-```
-cd rlsoc-tn/riscv-pk-build
-../riscv-pk/configure --enable-logo --enable-print-device-tree --host=riscv32-buildroot-linux-gnu --with-arch=rv32imac --with-payload=../linux-kernel/vmlinux
-make
-```
-* compile linux and rootfs (by using the configure files from linux-kernel folder)
-and copy vmlinux to rlsoc-tn/linux-kernel
-* run the simulation in verilator
-```
-cd rlsoc-tn/rvsoc_src_ver053/src
-./run-sim.sh
-```
+* to see linux booting in simulator, please read chapter 8
 
 #### Initial RLSoC
 ##### Notes

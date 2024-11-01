@@ -31,7 +31,7 @@ AC_SUBST([MEM_START], [0x80770000], [Physical memory start address])
 
 
 ##### Implementation on tang nano 20k
-* unzip bin-tn.tgz
+* extract bin-tn.tgz
 * write linux on sd card - replace /dev/sdb with your sd drive
 ```
 dd if=initmem.bin of=/dev/sdb bs=512 seek=0 && sync

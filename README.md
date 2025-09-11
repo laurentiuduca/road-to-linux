@@ -13,8 +13,7 @@ Smart Publishing, 2024, ISBN 978-606-068-087-1
    and add gowin/IDE/bin folder to your system path)
 * try true dual-core rlsoc-tn-20240526-1700.tgz<br>
 * please see the <a href="https://github.com/laurentiuduca/rlsoc2">rlsoc2</a> repository for verilog <br>
-(git tag 1.1 contents were copied to the src folder <br>
-in order to have the rlsoc-tn-20240526-1700.tgz version)
+Its contents must be copied to the src folder of rlsoc-tn-20240526-1700.tgz to have up-to-date sources.
 * git tag 1.3 is with PLIC and a mmu translation optimization
 * git tag 1.5 allows compressed instructions
 * 25 pages dedicated chapter in the book, see chapter 8!

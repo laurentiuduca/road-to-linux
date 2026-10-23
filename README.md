@@ -1,4 +1,5 @@
 ### risc-v dual-core, verilog, $30 fpga board
+* i found an unsolved bug
 * the book can be read for free
 * the processor stages are not pipelined
 * if you use our work, please cite us<br>
